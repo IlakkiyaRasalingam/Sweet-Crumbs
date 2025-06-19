@@ -4002,8 +4002,8 @@ input[type="button"].btn-block {
 }
 
 .navbar {
-  position: relative;
-  display: flex;
+  position: fixed;
+  display: 100%;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
